@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "447e51439b46298d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dba440e0232935c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "798c7074c112281d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-command-line/01-windows-command-line.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-windows-command-line"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a2a1550fe9524dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff9db81baeb7966e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aff3cacccdc13fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "95c99907bec049bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15df933b61259fa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c3cd673f54b87a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b25f8c6abfe1a717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd3c374851c309b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-command-line/01-windows-command-line.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01-windows-command-line"
+            }
+          },
+          {
+            "id": "a4eb047083746e11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-command-line/01-windows-command-line.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-windows-command-line"
+            }
+          },
+          {
+            "id": "0af32f610504bda3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac57bc23150e2afc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-command-line/01-windows-command-line.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-windows-command-line"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "798c7074c112281d",
+  "lastOpenFiles": [
+    "01-command-line/03-linux-shells.md",
+    "01-command-line/02-windows-powershell.md",
+    "01-command-line/01-windows-command-line.md",
+    "09-defensive-security-tooling",
+    "08-security-solutions",
+    "07-defensive-security",
+    "06-offensive-security-tooling",
+    "05-web-hacking",
+    "04-exploitation-basics",
+    "03-cryptography",
+    "02-networking",
+    "Welcome.md",
+    "01-command-line"
+  ]
+}
