@@ -14,6 +14,7 @@ Advantages of using a CLI (command line interface):
 ### Network Troubleshooting
 
 the command line provides many networking related commands:
+
 `ipconfig` - displays networking information about the machine
 `ipconfig /all` - provides more in-depth info of the network
 `ping target_name` - tests the connectivity between the machine and another device 
